@@ -27,6 +27,7 @@ Indast ugyldigt password.
 Klik på "Login"-knappen.
 
 **Forventet resultat:**
+
 Brugeren får en fejlmeddelelse:
 *"Forkert brugernavn eller adgangskode"*
 ---
@@ -61,5 +62,6 @@ Lad feltet for adgangskode stå tomt.
 klik på "Login"-knappen
 
 **Forventet resultat**
-Systemet viser en fejlmeddelelse 
+
+Systemet viser en fejlmeddelelse
 *"Brugernavn og adgangskode skal udfyldes"*
