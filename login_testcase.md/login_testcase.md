@@ -51,7 +51,7 @@ Brugeren får en fejlmeddelelse:
 *"Forkert brugernavn eller adgangskode"*
 ---
 
-##Testcase 4 : Tomme felter ved login 
+# Testcase 4 : Tomme felter ved login 
 
 **Forudsætning**
 Login-siden er åbnet. 
