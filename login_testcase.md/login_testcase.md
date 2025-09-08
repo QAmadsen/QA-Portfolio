@@ -1,6 +1,6 @@
 # Login Testcase
 
-**Forudsætning:**
+*Forudsætning*
 
 **Trin**
 Indtast gyldigt brugernavn.
