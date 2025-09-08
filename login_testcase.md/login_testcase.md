@@ -1,4 +1,9 @@
-# Testcase 1 : Gyldigt login
+# Login funktionalitet
+
+## Testcases
+
+
+### Testcase 1 : Gyldigt login
 
 **Forudsætning**
 
@@ -13,7 +18,7 @@ Klik på "Login"-knappen.
 Brugeren bliver logget ind og ført til forsiden. 
 ---
 
-# Testcase 2 : Ugyldigt login
+### Testcase 2 : Ugyldigt login
 
 **Forudsætning**
 
@@ -32,7 +37,7 @@ Brugeren får en fejlmeddelelse:
 *"Forkert brugernavn eller adgangskode"*
 ---
 
-# Testcase 3 : Forkert brugernavn 
+### Testcase 3 : Forkert brugernavn 
 
 # **Forudsætning**
 
@@ -51,7 +56,7 @@ Brugeren får en fejlmeddelelse:
 *"Forkert brugernavn eller adgangskode"*
 ---
 
-# Testcase 4 : Tomme felter ved login 
+### Testcase 4 : Tomme felter ved login 
 
 **Forudsætning**
 Login-siden er åbnet. 
